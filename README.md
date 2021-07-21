@@ -7,6 +7,6 @@ All data can be found at https://www.datafiles.samhsa.gov/study-series/treatment
 
 Supplementary single year and complete (with all non-missing data points) data analysis can be found in the additional files in this repository
 
-All thoughts and suggestions are welcome - I am learning! 
+All thoughts and suggestions are welcome! 
 
 Thank you.
